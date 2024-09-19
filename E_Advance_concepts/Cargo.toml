@@ -1,0 +1,7 @@
+[package]
+name = "E_Advance_concepts"
+version = "0.1.0"
+edition = "2021"
+default-run = "E_Advance_concepts"
+
+[dependencies]

@@ -1,0 +1,7 @@
+[package]
+name = "H_multithreading"
+version = "0.1.0"
+edition = "2021"
+default-run = "H_multithreading"
+
+[dependencies]

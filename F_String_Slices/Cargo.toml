@@ -1,0 +1,7 @@
+[package]
+name = "F_String_Slices"
+version = "0.1.0"
+edition = "2021"
+default-run = "F_String_Slices"
+
+[dependencies]

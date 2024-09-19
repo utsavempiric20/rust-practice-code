@@ -1,0 +1,7 @@
+[package]
+name = "G_generics_traits"
+version = "0.1.0"
+edition = "2021"
+default-run = "G_generics_traits"
+
+[dependencies]
