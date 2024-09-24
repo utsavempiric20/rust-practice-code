@@ -42,11 +42,20 @@
 // }
 
 // #5 : Mutable iter using .next
-fn main() {
-    let num = vec![1, 2, 3, 4];
-    let mut ans = num.iter();
+// fn main() {
+//     let num = vec![1, 2, 3, 4];
+//     let mut ans = num.iter();
 
-    while let Some(val) = ans.next() {
-        println!("{}", val)
-    }
+//     while let Some(val) = ans.next() {
+//         println!("{}", val)
+//     }
+// }
+
+// #6 into method
+fn main() {
+    let a: i32 = 5;
+    let b: f64 = a.into();
+
+    println!("{}", a);
+    println!("{}", b);
 }
